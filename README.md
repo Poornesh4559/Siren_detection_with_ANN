@@ -13,25 +13,25 @@ We trained a model for audio classification which uses normalised mfcc features 
 
 ## How to run it:
 
-### Make sure you have these modules on your machine
+### Make sure you have these modules on your machine:
 
-**tensorflow
+`tensorflow
 librosa
 tkinter
 pygame
 pandas 
-numpy**
+numpy`
 
 ### Step 1:
-> run the sirenApp.py file in your machine:
+run the sirenApp.py file in your machine:
 a window will appear like this
 ![intial window](./img/empty.png)
 
 ### Step 2:
-> Click the add button
+Click the add button
 ![after add button](./img/add.png)
 ### Step 3:
-> click on any sound file in the menu and click play
+click on any sound file in the menu and click play
 if it is a siren the out will display **siren**
 ![siren](./img/play_siren.png)
 else the out put will be **not a siren**
