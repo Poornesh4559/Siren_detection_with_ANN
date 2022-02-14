@@ -15,12 +15,12 @@ We trained a model for audio classification which uses normalised mfcc features 
 
 ### Make sure you have these modules on your machine:
 
-`tensorflow <br>
-librosa <br>
-tkinter <br>
-pygame <br>
-pandas <br>
-numpy` <br>
+`tensorflow` <br>
+`librosa` <br>
+`tkinter` <br>
+`pygame` <br>
+`pandas` <br>
+`numpy` <br>
 
 ### Step 1:
 run the sirenApp.py file in your machine: <br>
