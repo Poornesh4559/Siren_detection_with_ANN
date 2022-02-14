@@ -23,16 +23,16 @@ We trained a model for audio classification which uses normalised mfcc features 
 `numpy` <br>
 
 ### Step 1:
-run the sirenApp.py file in your machine: <br>
+run the `sirenApp.py` file in your machine: <br>
 a window will appear like this <br>
 ![intial window](./img/empty.png) <br>
 
 ### Step 2: <br>
-Click the add button <br>
+Click the `add` button <br>
 ![after add button](./img/add.png) <br>
 ### Step 3: <br>
-click on any sound file in the menu and click play <br>
-if it is a siren the out will display **siren** <br>
+click on any sound file in the menu and click `play` <br>
+`if` it is a siren the out will display ` siren ` <br>
 ![siren](./img/play_siren.png) <br>
-else the out put will be **not a siren** <br>
+`else` the out put will be `not a siren` <br>
 ![not a siren](./img/play_no_siren.png) <br>
